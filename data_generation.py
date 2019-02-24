@@ -1,3 +1,4 @@
+# Creates a train-val-test datasets
 from google_images_download import google_images_download
 
 happy_man_queries = ["cheerful man", "happy man", "happy men face", "smiling man", "довольный мужчина", "радостный мужчина", "счастливый мужчина", "улыбающийся мужчина"]
